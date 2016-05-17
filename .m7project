@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-project guid="ShoppingCart_10acda863ec_3d3466c34b2dff1c" version="5">
+	<web-app guid="._10acda863ec_388c41df31d4d8bc">
+		<root-path-uri>./</root-path-uri>
+		<web-app-type>com.m7.webapp.java</web-app-type>
+	</web-app>
+	<properties>
+		<property name="validation.compile" value="true"/>
+		<property name="validation.missingFile" value="true"/>
+		<property name="validation.unresolvedVar" value="false"/>
+		<property name="validation" value="true"/>
+		<property name="taglib.downloadRemote" value="true"/>
+		<property name="validation.unresolvedType" value="false"/>
+		<property name="validation.compile.jspQuotation" value="false"/>
+	</properties>
+</web-project>
